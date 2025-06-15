@@ -1,2 +1,12 @@
-# SALES-DASHBOARD-POWER-BI
-Ive created database, created tables and populated data into to them and connected the server to Power BI and created a dashboard
+# 📊 Sales Data Analysis Project
+
+An end-to-end analytics project using SQL for data processing and Power BI for interactive dashboard visualization.
+
+## 🧰 Tools Used
+- MySQL
+- Power BI
+- SQL
+- DAX (minor)
+- Git & GitHub
+
+## 📁 Project Structure
