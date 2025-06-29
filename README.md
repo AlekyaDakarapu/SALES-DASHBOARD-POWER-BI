@@ -23,6 +23,6 @@ Screenshots of Power BI dashboards are available in the `/visuals` folder.
 ## 👤 Author
 Alekya Dakarapu 
 Data Analyst | SQL Developer  
-📧 your.email@example.com  
+📧 dakarapualekya@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 
