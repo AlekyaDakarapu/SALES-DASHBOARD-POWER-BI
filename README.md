@@ -1,28 +1,10 @@
-# 📊 Sales Data Analysis Project
+# 📊 SalesDB Power BI Analysis Summary
 
-An end-to-end analytics project using SQL for data processing and Power BI for interactive dashboard visualization.
-
-## 🧰 Tools Used
-- MySQL
-- Power BI
-- SQL
-- DAX (minor)
-- Git & GitHub
-
-## 📁 Project Structure
-
-
-## 📈 Visualizations
-Screenshots of Power BI dashboards are available in the `/visuals` folder.
-
-## 📎 Key Deliverables
-- [`sales_db_script.sql`](./sales_db_script.sql)
-- [`power_bi_dashboard.pbix`](./power_bi_dashboard.pbix)
-- [Detailed Report (PDF)](./report/sales_report.pdf)
+This project involved creating a relational database (`SalesDB`) with Customers, Products, Orders, and Sales tables to simulate real-world sales operations. Key SQL queries were used to analyze monthly revenue, regional performance, best-selling products, and customer spending behavior. These insights were visualized in Power BI using cards, line charts, bar charts, and slicers for interactive exploration. The report supports strategic decisions in marketing, inventory, and customer engagement. Visuals such as revenue trends and top customers provide valuable KPIs for business growth. Future enhancements include profitability analysis, customer segmentation, and revenue forecasting.
 
 ## 👤 Author
 Alekya Dakarapu 
-Data Analyst | SQL Developer  
+Data Analyst 
 📧 dakarapualekya@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn](https://linkedin.com/in/yourprofilewww.linkedin.com/in/alekya-dakarapu-54353a210)
 
